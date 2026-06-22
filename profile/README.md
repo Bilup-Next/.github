@@ -2,7 +2,7 @@
 
 ## A modern visual programming ecosystem built on MistWarp & TurboWarp.
 
-![](https://www.bilup.org/images/editor.png)
+![](https://www.bilup.org/images/editor-en.png)
 
 ✨ Scratch / TurboWarp / MistWarp compatible
 
