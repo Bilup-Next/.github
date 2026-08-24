@@ -12,4 +12,4 @@
 
 🇨🇳 Designed for Chinese-speaking creators
 
-*Refactoring freedom.*
+*Elevate your creation.*
