@@ -6,8 +6,6 @@
 
 ✨ Scratch / TurboWarp / MistWarp compatible
 
-🤖 Bilup Nova AI integration
-
 👥 Real-time collaborative editing
 
 🇨🇳 Designed for Chinese-speaking creators
